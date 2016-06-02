@@ -1,0 +1,33 @@
+C:\Users\Oleg\Desktop\CSharp-master (1)\CSharp-master\MyLibraryApp1\MyLibraryApp.UI\bin\Debug\MyLibraryApp.UI.exe.config
+C:\Users\Oleg\Desktop\CSharp-master (1)\CSharp-master\MyLibraryApp1\MyLibraryApp.UI\bin\Debug\MyLibraryApp.UI.exe
+C:\Users\Oleg\Desktop\CSharp-master (1)\CSharp-master\MyLibraryApp1\MyLibraryApp.UI\bin\Debug\MyLibraryApp.UI.pdb
+C:\Users\Oleg\Desktop\CSharp-master (1)\CSharp-master\MyLibraryApp1\MyLibraryApp.UI\bin\Debug\EntityFramework.dll
+C:\Users\Oleg\Desktop\CSharp-master (1)\CSharp-master\MyLibraryApp1\MyLibraryApp.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Oleg\Desktop\CSharp-master (1)\CSharp-master\MyLibraryApp1\MyLibraryApp.UI\bin\Debug\MyLibraryApp.DAL.dll
+C:\Users\Oleg\Desktop\CSharp-master (1)\CSharp-master\MyLibraryApp1\MyLibraryApp.UI\bin\Debug\MyLibraryApp.DAL.pdb
+C:\Users\Oleg\Desktop\CSharp-master (1)\CSharp-master\MyLibraryApp1\MyLibraryApp.UI\bin\Debug\EntityFramework.xml
+C:\Users\Oleg\Desktop\CSharp-master (1)\CSharp-master\MyLibraryApp1\MyLibraryApp.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Oleg\Desktop\CSharp-master (1)\CSharp-master\MyLibraryApp1\MyLibraryApp.UI\obj\Debug\MyLibraryApp.UI.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Desktop\CSharp-master (1)\CSharp-master\MyLibraryApp1\MyLibraryApp.UI\obj\Debug\MyLibraryApp.UI.MainForm.resources
+C:\Users\Oleg\Desktop\CSharp-master (1)\CSharp-master\MyLibraryApp1\MyLibraryApp.UI\obj\Debug\MyLibraryApp.UI.Properties.Resources.resources
+C:\Users\Oleg\Desktop\CSharp-master (1)\CSharp-master\MyLibraryApp1\MyLibraryApp.UI\obj\Debug\MyLibraryApp.UI.csproj.GenerateResource.Cache
+C:\Users\Oleg\Desktop\CSharp-master (1)\CSharp-master\MyLibraryApp1\MyLibraryApp.UI\obj\Debug\MyLibraryApp.UI.exe
+C:\Users\Oleg\Desktop\CSharp-master (1)\CSharp-master\MyLibraryApp1\MyLibraryApp.UI\obj\Debug\MyLibraryApp.UI.pdb
+C:\Users\Oleg\Desktop\MyLibraryApp\MyLibraryApp.UI\bin\Debug\MyLibraryApp.UI.exe.config
+C:\Users\Oleg\Desktop\MyLibraryApp\MyLibraryApp.UI\obj\Debug\MyLibraryApp.UI.exe
+C:\Users\Oleg\Desktop\MyLibraryApp\MyLibraryApp.UI\obj\Debug\MyLibraryApp.UI.pdb
+C:\Users\Oleg\Desktop\MyLibraryApp\MyLibraryApp.UI\bin\Debug\MyLibraryApp.UI.exe
+C:\Users\Oleg\Desktop\MyLibraryApp\MyLibraryApp.UI\bin\Debug\MyLibraryApp.UI.pdb
+C:\Users\Oleg\Desktop\MyLibraryApp\MyLibraryApp.UI\bin\Debug\EntityFramework.dll
+C:\Users\Oleg\Desktop\MyLibraryApp\MyLibraryApp.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Oleg\Desktop\MyLibraryApp\MyLibraryApp.UI\bin\Debug\MyLibraryApp.DAL.dll
+C:\Users\Oleg\Desktop\MyLibraryApp\MyLibraryApp.UI\bin\Debug\MyLibraryApp.DAL.pdb
+C:\Users\Oleg\Desktop\MyLibraryApp\MyLibraryApp.UI\bin\Debug\EntityFramework.xml
+C:\Users\Oleg\Desktop\MyLibraryApp\MyLibraryApp.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Oleg\Desktop\MyLibraryApp\MyLibraryApp.UI\obj\Debug\MyLibraryApp.UI.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Desktop\MyLibraryApp\MyLibraryApp.UI\obj\Debug\MyLibraryApp.UI.MainForm.resources
+C:\Users\Oleg\Desktop\MyLibraryApp\MyLibraryApp.UI\obj\Debug\MyLibraryApp.UI.Properties.Resources.resources
+C:\Users\Oleg\Desktop\MyLibraryApp\MyLibraryApp.UI\obj\Debug\MyLibraryApp.UI.csproj.GenerateResource.Cache
+C:\Users\user1\Dropbox\MyLibraryApp\MyLibraryApp.UI\bin\Debug\MyLibraryApp.UI.exe.config
+C:\Users\user1\Dropbox\MyLibraryApp\MyLibraryApp.UI\obj\Debug\MyLibraryApp.UI.exe
+C:\Users\user1\Dropbox\MyLibraryApp\MyLibraryApp.UI\obj\Debug\MyLibraryApp.UI.pdb
